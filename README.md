@@ -172,10 +172,12 @@ Full Stack developer with awesome web technical skills, hefty product developmen
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endlessflier&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  <br>
+  <br>
     
-  <br>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=endlessflier&theme=monokai"/>
   </div>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=endlessflier&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
