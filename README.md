@@ -4,7 +4,7 @@
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232087FF&size=40&center=true&vCenter=true&width=1000&lines=Where+hope+grows%2C+Endless+flier)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232087FF&size=40&center=true&vCenter=true&width=1000&lines=Where+hope+grows%2C+Endless+flier!)](https://git.io/typing-svg)
 <hr>
 <br>
 
