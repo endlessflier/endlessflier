@@ -185,6 +185,3 @@ Full Stack developer with awesome web technical skills, hefty product developmen
   <br>
 </p>
 <hr>
-
-
-Here is [Skype](https://join.skype.com/invite/y4fZlsO3HbzN).
